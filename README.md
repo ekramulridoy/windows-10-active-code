@@ -1,4 +1,4 @@
-# windows-10-active-code(Just copy and pase below code ! Ignore this line !)
+# windows-10/11-active-code(Just copy and pase below code ! Ignore this line !)
 ----------------------------------------------------------------------------
 
 
